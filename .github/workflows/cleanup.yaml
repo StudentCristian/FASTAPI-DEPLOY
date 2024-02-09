@@ -1,5 +1,5 @@
 name: Cleanup Koyeb application
-
+ 
 on:
   delete:
     branches:
